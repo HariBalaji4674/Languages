@@ -1,5 +1,16 @@
 ## Python DSA Notes
 
+**Python OOPs Concepts:**
+- Class
+  - Group of Objects or Same kind of items storing in a single place is called Class
+- Objects
+  - Instance of a Class is called an Objects
+- Inheritance
+  - taking characteristics and attributes is called an Inheritance
+- Abstraction
+- Polymorphism
+- Encapsulation
+
 **What is DSA:**
 - *Data Structures :*
   - Study of methods for storing and organizing the data in a formal structure is called Data Structuring
@@ -29,7 +40,7 @@ The run time can be dependent on multiple factors:
 
 - **Algorithims:**
   - When we use some sequence of steps to organize and storing the data is called Algorithims
-  - set of rules to obtain the expected output from the given input 
+  - set of rules to obtain the expected output from the given input
   - managing the data structures with a sequene of Stepa is called the Algorithims
 
 ## Data Structures:
@@ -108,7 +119,7 @@ def gcd(a,b):
 Little Notation
 
 Little Omega notation
-- Loosely Bound of O(N^3) 
+- Loosely Bound of O(N^3)
 
 
 Order of Growth:
@@ -117,7 +128,7 @@ Direct Way to find the order of growth:
 - ignore lower order pf growth
 
 How do compare the order of growth:
-- c < log(logn) < log n < n^1/3 < n^1/2 < n < n^2 < n^3 < n^4 < 2^n < n^n 
-Time Taken --> Increasing order.      Order of Growth 
+- c < log(logn) < log n < n^1/3 < n^1/2 < n < n^2 < n^3 < n^4 < 2^n < n^n
+Time Taken --> Increasing order.      Order of Growth
 
 
