@@ -7,7 +7,7 @@ print(countries[1])
 # Functions in Python
 def greetings():
     print("Hello World")
- 
+
 greetings(
 
 )
@@ -19,7 +19,7 @@ def names(*names):
     print(names)
 
 names('hari','vardhan','reddy')
-  
+
 
 def symbol(num1,num2):
     return num1+num2
@@ -42,3 +42,5 @@ lists =  [
 print(lists)
 
 # Reading Files
+# This Is Django Application developement active like this
+
