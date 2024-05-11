@@ -3,4 +3,5 @@
 ## Time and Space Complexities
 
 ### What is Time Complexity:
--
+- Time complexity is not equal to time taken
+- Time complexity is not dependent on time taken
