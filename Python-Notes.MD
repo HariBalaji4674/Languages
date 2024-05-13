@@ -2,6 +2,14 @@
 - Starting From The 11-May-2024 we are adding this Repository
 - Second Chance to get it resolved this addition of repos
 
+**How to deep dive the DSA Strivers Course**
+- Theory Just Learn the basics dont DeepDive
+- Practice The problems the most
+- problem -- Try -- Blog -- Try -- Blog -- Notes -- Try
+
+**Why we need OOPs Concepts:**
+- Each data type in python is an object and is instantiated by a class
+- They were never been so much to study this kind of course
 **Python OOPs Concepts:**
 - Class
   - Group of Objects or Same kind of items storing in a single place is called Class
