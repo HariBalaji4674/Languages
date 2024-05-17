@@ -29,7 +29,7 @@
 # - Model of Computation
     - Word RAM (Random Access Memory) in constant time (String of Bits 0's and 1's)
 # Data Structures:
-- Operate to store lot amount of data getting know
+- Operate to store lot amount of data
 - Representation
 - How to store the data in a systematic order
 - algorithims to supported
