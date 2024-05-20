@@ -1,13 +1,13 @@
-#### Operating Systems
+### Operating Systems
 1: What is an Operating Systems?
 ans: An Operating Systems is an interface between user and hardware
 
 2: There are two types of Softwares
 ans: Application Software and System Software
 
-#### Application Software :
+### Application Software :
 - The software where the operating system can work based on the code written by the humans
-#### System Software:
+### System Software:
 - The software where it provides a platform to run the application softwares is called System Software
 
 flow of Applications
@@ -39,7 +39,7 @@ there are two types of interfaces:
 Batch Processing:
 Batch OS: Jobs
 
-##### Process State Diagram(Google.com):
+### Process State Diagram(Google.com):
 - 1: new --> Created
 - 2: Ready --> Schedule/Dispatch
 - 3: Running --> Completed
@@ -57,13 +57,22 @@ Running --> I/O Request --> Waiting/Blocked --> I/O Completion --> Ready
 
 - You cannot terminate process when runnng state
 
-##### Scheduler:
+### Scheduler:
 - Long Term Scheduler
 - Short Term Scheduler/Dispatcher
 - Medium Term Scheduler
 
-##### There are two kind of processes :
+### There are two kind of processes :
 - CPU time : The operatios mostly consuming time at processing side is called cpu bound process
 - I/O Time : The operations mostly consuming time at input output side is called I/O time processes
+
+### First Come First Server Algorithim:
+- Assigns CPU to the process which comes first
+- Mode: Non-Premptive
+- There are Two types of modes in CPU Scheduling
+  - Preemptive (Process Can Terminate)
+  - Non-Preemptive (Process Cannot Terminate)
+
+
 
 
