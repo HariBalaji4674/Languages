@@ -196,3 +196,21 @@ for i in range(5,0,-1):
 # n-i-1  for no of linto be filled with spaces
 # i+1 to increase the count
 # i,n to decrease the count
+
+# Python String Formatting
+
+print()
+price = 20
+txt = f"The price is {95:.2f}"
+txt = f"I am adding {20+40}"
+print(txt)
+
+name = 'peddireddy hari vardhan reddy'
+print(f"i love my name {(name.upper())}")
+
+def even(number):
+  return number*20.4
+
+answer = f"I am collecting the value of list{even(200)}"
+print(answer)
+print(even(10))
