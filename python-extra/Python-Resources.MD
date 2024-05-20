@@ -6,3 +6,12 @@
 
 🟢 Checkout SDE Interview Prep 2.0 - https://www.algoprep.in/index.html
 🟢 Checkout System design - https://www.algoprep.in/system-design...
+
+
+
+
+1:05  Dice simulator
+2:20  Rock Paper Scissor
+3:40  Reminder application for notification
+5:30  Desktop Assistant
+6:35  Image editing app

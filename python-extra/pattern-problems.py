@@ -110,3 +110,89 @@ for i in range(n):
     print(start,end=" ")
     start = 1-start
   print()
+
+n = 10
+m = 0
+for i in range(n):
+  for j in range(i):
+    print(format(m,">3"),end=" ")
+    m = m+1
+  print()
+
+name = "Peddireddy Hari {:<10} Reddy"
+print(name.format("vardhan"))
+
+for i in range(n):
+  for j in range(i+1):
+    print(j,end=" ")
+  print()
+
+for i in range(n):
+  for j in range(i+1):
+    print(m,end=" ")
+  print()
+
+
+def pattern(n):
+  for i in range(n):
+    for j in range(i,n):
+      print(j,end=" ")
+    print()
+def pattern(n):
+  for i in range(n):
+    print(i,end=" ")
+
+pattern(5)
+
+print("*********************")
+
+
+for i in range(5):
+  for j in range(i,n):
+    print(" ",end=" ")
+  for j in range(i+1):
+    print("*",end=" ")
+  for j in range(i):
+    print(i,end= " ")
+  print()
+
+for i in range(n):
+  for j in range(n-i-1):
+    print("*",end=" ")
+  print()
+for i in range(n):
+  for j in range(i,n-1):
+    print("*",end=" ")
+  print()
+
+n = 5
+for i in range(n):
+  for j in range(i,n):
+    print(" ",end=" ")
+  for j in range(i+1):
+    print("*",end=" ")
+  for j in range(i+1):
+    print(i,end=" ")
+  print()
+m = 0
+for i in range(n):
+  for j in range(i+1):
+    print(" ",end=" ")
+  for j in range(n,0,-1):
+    print(j,end=" ")
+  for j in range(i,n):
+    print(m,end=" ")
+    m = m+1
+  print()
+
+
+# for i in range(start,end,increment)
+
+for i in range(5,0,-1):
+  print(i,end=" ")
+
+
+# Pattern Problems Conditions are :
+# n-i-1  for no of linto be filled with spaces
+# i+1 to increase the count
+# i,n to decrease the count
