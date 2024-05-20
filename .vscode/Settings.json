@@ -5,7 +5,7 @@
     "explorer.confirmDragAndDrop": false,
     "editor.fontSize": 18,
     "editor.fontFamily": "arieal",
-    "workbench.preferredLightColorTheme": "Default Dark Modern",
+    "workbench.preferredLightColorTheme": "Default Dark+",
     "workbench.preferredHighContrastLightColorTheme": "Default Dark Modern",
     "window.autoDetectColorScheme": true,
     "workbench.preferredHighContrastColorTheme": "Atom One Dark",

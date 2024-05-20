@@ -214,3 +214,12 @@ def even(number):
 answer = f"I am collecting the value of list{even(200)}"
 print(answer)
 print(even(10))
+
+
+# String Formatting Problems
+name = 'peddireddy'
+age = 24
+year = 2024
+
+deatils = "My Name is {0} and my age is {1} the year is {2}"
+print(deatils.format(name,age,year))
