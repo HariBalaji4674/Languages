@@ -56,3 +56,12 @@ if out == temp:
   print(f"{out} is an armstrong number")
 else:
   print(f"{out} is not an armstrong number")
+
+  # No of Divisors
+
+number  =  36
+for i in range(1,number+1):
+  if number % i == 0:
+    print(i,end=" ")
+  else:
+    continue

@@ -73,6 +73,8 @@ Running --> I/O Request --> Waiting/Blocked --> I/O Completion --> Ready
   - Preemptive (Process Can Terminate)
   - Non-Preemptive (Process Cannot Terminate)
 
+- It supports Queue Data Structure
+- Responce Time  At first when the process is assigned to CPU
 
 
 

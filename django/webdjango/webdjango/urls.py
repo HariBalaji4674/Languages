@@ -1,5 +1,5 @@
 """
-URL configuration for storeproject project.
+URL configuration for webdjango project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.0/topics/http/urls/
