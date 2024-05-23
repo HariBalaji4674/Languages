@@ -211,7 +211,7 @@ print(f"i love my name {(name.upper())}")
 def even(number):
   return number*20.4
 
-answer = f"I am collecting the value of list{even(200)}"
+answer = f"I am collecting the value of list  {even(200)}"
 print(answer)
 print(even(10))
 
@@ -223,3 +223,28 @@ year = 2024
 
 deatils = "My Name is {0} and my age is {1} the year is {2}"
 print(deatils.format(name,age,year))
+
+n  = int(input("Please enetr the number : "))
+for i in range(n):
+  for j in range(i,n):
+    print("*",end=" ")
+  print()
+
+# 12 minutes of progarm
+# Palindrome or not
+# Same from forward as well as backward
+
+# String Palindrome
+
+string  = "peddireddy"
+
+print(string[::-1])
+
+name = input("Please enter a string : ")
+rev_name = name[::-1]
+
+if name == rev_name:
+  print(f"{name} and {rev_name} are palindrome")
+else:
+  print("Sorry please enter correct string")
+
