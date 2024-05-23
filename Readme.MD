@@ -19,6 +19,12 @@
 
 
 #### Top 5 Habits for Programmers
+```
+Consistency
+Curiosity
+Hard Work
+Smart Work
+```
 - 1: Focus on One Thing [Python Basics, DSA, Framework, System Design]
 - 2: Finish What you started
 - 3: Welcoming a Failures [ Start Learning From Failure]
