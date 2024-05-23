@@ -16,3 +16,11 @@
 - 3. [Algorithms 1 and 2:](http://imp.i384100.net/algorithms-1 and http://imp.i384100.net/algorithms-2)
 - 4. [Meta Front-end Professional Certificate:](http://imp.i384100.net/Meta-FE)
 - 5. [System Design:](https://www.youtube.com/watch?v=-W9F__D3oY4)
+
+
+#### Top 5 Habits for Programmers
+- 1: Focus on One Things [Python Basics, DSA, Framework, System Design]
+- 2: Finish What you started
+- 3: Welcoming a Failures [ Start Learning From Failure]
+- 4: Learn The Theory then go to Practice
+- 5: Practice Practice Practice
