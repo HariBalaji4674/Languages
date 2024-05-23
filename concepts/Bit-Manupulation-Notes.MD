@@ -10,4 +10,4 @@
   - Left Shift Shifting one bits left
   - Right Shift
 - Largest Number
-  - 
+  -
