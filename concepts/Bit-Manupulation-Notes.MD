@@ -10,4 +10,13 @@
   - Left Shift Shifting one bits left
   - Right Shift
 - Largest Number
-  -
+
+# Swap The numbers:
+
+
+# Check if the ith bit set or not
+  - First Write Binary Format
+  - Do 1 left shift ith bit
+  - then do and(&) operation
+  - if (N & (1 << ith bit) != 0) print the number is set
+  - else not set

@@ -20,3 +20,35 @@ def secondMethod(high,low):
   print(high+low)
 
 firstMethod(67,33)
+
+# Swapping Two Numbers without third variable
+a = 10
+b = 9
+10 == 1010
+9 == 1001
+
+print(a^b)
+
+a = 4
+print(a << 2)
+
+b = 5
+print( b >> 3)
+
+# Check The ith bit
+
+def decimalToBinary(num):
+  if num > 1:
+    decimalToBinary(num // 2)
+  print(num%2,end=" ")
+
+decimalToBinary(14)
+
+print()
+
+number = 14
+i = 3
+if number & (1 << i) != 0:
+  print(f"This number is set at {i}th place")
+else:
+  print("This is not set")
