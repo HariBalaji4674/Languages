@@ -20,3 +20,8 @@
   - then do and(&) operation
   - if (N & (1 << ith bit) != 0) print the number is set
   - else not set
+
+# Set the ith bit in a number
+  -
+# Clear the ith bit
+

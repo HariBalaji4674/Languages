@@ -6,3 +6,6 @@
   - the functions are getting called unlimited times the stack get exhausted
 ### Applications of Recursion:
 -
+
+### Reverse the Array
+-

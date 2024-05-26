@@ -1,3 +1,7 @@
+from ast import main
+from numpy import swapaxes
+
+
 array_def = [1,2,3,4,5]
 rev_arr = array_def[::-1]
 print(rev_arr)
@@ -15,12 +19,14 @@ print("")
 
 # Array Reversing using inbuild function
 main_array = [3,4,6,7,9]
-print(main_array)
+print(main_array[::-1])
+n = len(main_array)
+for i in range(n):
+  # main_array[i] = main_array[n-i-1]
+  # main_array = main_array.append(n-i-1)
+  print(main_array[i])
 
-print(main_array[2:])
 
-
-print("Peddireddy Hari Vardhan Reddy")
 
 
 

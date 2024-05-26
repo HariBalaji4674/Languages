@@ -43,6 +43,8 @@ def decimalToBinary(num):
   print(num%2,end=" ")
 
 decimalToBinary(14)
+print()
+decimalToBinary(16)
 
 print()
 
@@ -52,3 +54,23 @@ if number & (1 << i) != 0:
   print(f"This number is set at {i}th place")
 else:
   print("This is not set")
+
+number = 16
+i = 2
+
+if number >> i & 1 == 0:
+  print(" The given is not set ")
+else:
+  print("The given is set")
+
+number = 12
+i = 2
+if number | 1 << i:
+  print(number)
+else:
+  print("False")
+
+
+
+
+
