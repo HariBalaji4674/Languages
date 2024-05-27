@@ -22,6 +22,9 @@ shawdows
 chrome dev tools
 css box model
 
+text styles
+
+
 
 
 
