@@ -51,8 +51,6 @@ print(obj.marks())
 
     
 
-
-
 """
 
 Without class we cannot create a Objects
