@@ -17,6 +17,19 @@ print(np_array1)
 
 for i in my_array1:
     print(i)
+    
+# Objects: Nouns : Things,Places,Ideas,People,Concepts
+# Behaviours: Verbs: Calling, Texting,Playing
+
+# Object = Class()
+# Object.Attribute()
+# class has methods
+
+
+
+    
+
+
 
 
 
